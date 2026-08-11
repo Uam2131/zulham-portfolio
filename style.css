@@ -1619,3 +1619,19 @@ footer span:last-child {
     max-height: 300px;
   }
 }
+/* =========================
+   DOWNLOAD CV BUTTON
+========================= */
+
+.cv-btn {
+  background: #171421;
+  color: #fff;
+  border-color: #171421;
+}
+
+.cv-btn:hover {
+  background: var(--purple);
+  border-color: var(--purple);
+  color: #fff;
+  transform: translateY(-3px);
+}
